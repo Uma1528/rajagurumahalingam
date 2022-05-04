@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajagurumahalingam
-- 👀 I’m interested in Front end projects like React, Javascript, Node Js and web3
-- 💞️ I’m looking to collaborate on Javascript, ReactJS and web3, solidity projects
-- 📫 How to reach me ... .... ... mrguru1115@gmail.com
+- 👀 I’m interested in Front end applications using React, Javascript, web3js
+- 💞️ I’m looking to collaborate on ReactJS and web3, solidity projects
+- 📫 Javascript, HTML, CSS, Tailwind css, MUI
 
 <!---
 rajagurumahalingam/rajagurumahalingam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
